@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    padding-top: 5%;
+}
+.col{
+    /* width: 40%; */
+    background-color: rgb(107, 36, 122);
+    margin: auto;
+    padding: 20px;
+}
+.card{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+}
+.ph-no{
+    display: flex;
+    padding: 10px 0;
+}
+.india{
+    background-color: rgb(214, 213, 212);
+    padding:10px 20px 10px 5px;
+    width: 15%;
+    display: flex;
+}
+form input{
+    width: 100%;
+    padding: 10px;
+}
+.btn{
+    background-color: rgb(226, 43, 198);
+    border: 0;
+}
+form label{
+    line-height: 2;
+}
+.india img{
+    width: 100%;
+}
